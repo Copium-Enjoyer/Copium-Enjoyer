@@ -12,7 +12,7 @@
 
 - 🐍 Python (numpy, matplotlib, pandas)
 - 🐗 Django
-- 🎨 HTML/CSS (Bootstrap/Tailwin) basic JS
+- 🎨 HTML/CSS (Bootstrap/Tailwind) basic JS
 - 🐘 SQL (MySQL, PostgreSQL)
 
 
