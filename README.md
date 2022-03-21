@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+- 🐍 Currently working on a blackjack simulation engine for machine learning purposes
+- 🐼 Currently learning in depth numpy, matplotlib and pandas
+- 🧠 Interested in Cognitive Science, Natural Language Processing, Artificial Intelligence, Ethics of AI, Data Visualization
+- 🦔 Looking for someone to work on a case study or beginner friendly NLP projects.
+
+### Skills
+
+- 🐍 Python (numpy, matplotlib, pandas)
+- 🐗 Django
+- 🎨 HTML/CSS (Bootstrap/Tailwin)
+- 🐘 SQL (MySQL, PostgreSQL)
+
+
+
+
 <!--
 **Copium-Enjoyer/Copium-Enjoyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
