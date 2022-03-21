@@ -1,9 +1,12 @@
-### Hi there 👋
+### Hello there 🐢
 
 - 🐍 Currently working on a blackjack simulation engine for machine learning purposes
 - 🐼 Currently learning in depth numpy, matplotlib and pandas
 - 🧠 Interested in Cognitive Science, Natural Language Processing, Artificial Intelligence, Ethics of AI, Data Visualization
-- 🦔 Looking for someone to work on a case study or beginner friendly NLP projects.
+- 🦔 Looking for someone to work on a case study or a beginner friendly NLP project.
+- 🍋 Pronouns: he/him
+
+
 
 ### Skills
 
